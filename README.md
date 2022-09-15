@@ -22,4 +22,4 @@ Laravel/Vite/Inertia/Vue
     Login: admin@admin.com
     Senha: admin123
 
-# Faça alguns posts, notícias e registros, comentarios para testar o projeto!
+# Faça alguns posts, notícias, registros e comentarios para testar o projeto!
